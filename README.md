@@ -1,7 +1,7 @@
-# Name : M.RAJESHKANNAN
-# Register no : 212221230081
-# Date : 20/3/2024
-# Experiment No. 2 
+### Name : M.RAJESHKANNAN
+### Register no : 212221230081
+### Date : 20/3/2024
+### Experiment No. 2 
 # Implementation of Perceptron for Binary Classification
 ## AIM:
 To implement a perceptron for classification using Python
